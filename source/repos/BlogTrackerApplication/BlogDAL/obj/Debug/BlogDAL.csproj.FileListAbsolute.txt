@@ -1,0 +1,12 @@
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\bin\Debug\BlogDAL.dll
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\bin\Debug\BlogDAL.pdb
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\obj\Debug\BlogDAL.csproj.AssemblyReference.cache
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\obj\Debug\BlogDAL.csproj.CoreCompileInputs.cache
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\obj\Debug\BlogDAL.dll
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\obj\Debug\BlogDAL.pdb
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\bin\Debug\BlogDAL.dll.config
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\bin\Debug\EntityFramework.dll
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\bin\Debug\EntityFramework.xml
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shashant\source\repos\BlogTrackerApplication\BlogDAL\obj\Debug\BlogDAL.csproj.CopyComplete
