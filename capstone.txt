@@ -1,0 +1,19 @@
+1--> Azure Databse with cde first approach
+2--> Create a class Libray  (Data Access Layer)
+  	install entity framework
+	create entity classes using entity framework
+	create Context class 
+	create App.config file and add connection string into it.
+	Build it you will get .dll file.
+
+3---> Crreate Web Api ( service Layer ) add the refrence of DAL into this.
+	we will create api controllers(WEB API 2 controller with actions using entity framework)  for entity classes which will have get, put, post, delete 	actions.
+	install cors 
+	
+
+4--->  Create MVC framework application and call the web api in the respective controllers (MVC 5 controller with read write action)
+
+
+
+
+
